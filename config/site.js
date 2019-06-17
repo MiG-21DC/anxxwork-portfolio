@@ -2,20 +2,20 @@ module.exports = {
   pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
 
   siteTitle: 'ANXXWORK', // Navigation and Site Title
-  siteTitleAlt: 'Emilia - Gatsby Starter Portfolio', // Alternative Site title for SEO
-  siteTitleShort: 'Emilia', // short_name for manifest
-  siteHeadline: 'Publishing & Creating stunning photos', // Headline for schema.org JSONLD
+  siteTitleAlt: 'Shawn - ANXXWORK Portfolio', // Alternative Site title for SEO
+  siteTitleShort: 'ANXXWORK', // short_name for manifest
+  siteHeadline: 'A stupid guy who likes to spam a tiny metal button', // Headline for schema.org JSONLD
   siteUrl: 'https://photography.mig21dc.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo.png', // Used for SEO and manifest
-  siteDescription: 'Dark One-Page portfolio with cards & detailed project views',
-  author: 'LekoArts', // Author for schema.org JSONLD
+  siteDescription: 'Dark One-Page portfolio',
+  author: 'Shawn', // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
-  userTwitter: '@emilia', // Twitter Username
-  ogSiteName: 'emilia', // Facebook Site Name
+  userTwitter: '@mig21dc', // Twitter Username
+  ogSiteName: '', // Facebook Site Name
   ogLanguage: 'en_US', // og:language
-  googleAnalyticsID: 'UA-47519312-4',
+  googleAnalyticsID: '',
 
   // Manifest and Progress color
   themeColor: '#3498DB',
@@ -23,19 +23,15 @@ module.exports = {
 
   // Your information
   avatar: '/logos/lekoarts.png',
-  name: 'LekoArts',
-  location: 'Germany',
+  name: 'ANXXWORK',
+  location: 'Toronto',
   socialMedia: [
     {
-      url: 'https://twitter.com/lekoarts_de',
-      name: 'Twitter',
-    },
-    {
-      url: 'https://www.instagram.com/lekoarts.de',
+      url: 'https://www.instagram.com/mig21dc',
       name: 'Instagram',
     },
     {
-      url: 'https://www.lekoarts.de/en',
+      url: 'https://www.mig21dc.com',
       name: 'Homepage',
     },
   ],
