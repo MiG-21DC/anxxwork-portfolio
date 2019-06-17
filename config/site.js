@@ -1,11 +1,11 @@
 module.exports = {
   pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
 
-  siteTitle: 'Emilia', // Navigation and Site Title
+  siteTitle: 'ANXXWORK', // Navigation and Site Title
   siteTitleAlt: 'Emilia - Gatsby Starter Portfolio', // Alternative Site title for SEO
   siteTitleShort: 'Emilia', // short_name for manifest
   siteHeadline: 'Publishing & Creating stunning photos', // Headline for schema.org JSONLD
-  siteUrl: 'https://emilia.lekoarts.de', // Domain of your site. No trailing slash!
+  siteUrl: 'https://photography.mig21dc.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo.png', // Used for SEO and manifest
   siteDescription: 'Dark One-Page portfolio with cards & detailed project views',
